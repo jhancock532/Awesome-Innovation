@@ -8,3 +8,21 @@
   Free : Every student already has an Office 365 account, so no sign up required. Easy to use.
 * [Trello](https://trello.com) <br>
   Free : Requires sign up. Just as easy as the above, limited "power ups" such as calendar view before you have to pay.
+  
+## Doing Work
+#### Includes file sharing, text editors, online surveys - everything.
+
+* [Microsoft Office](https://www.office.com) <br>
+  Free : A better version of Google Drive (yes, it has real time collaboration on all documents as well). The online editor for Word isn't as nice as Docs, but that doesn't matter because you would use the normal Word software anyway. OneDrive is where you will store and share all your project files.
+  
+* [Google Drive](https://drive.google.com/drive/u/0/) <br>
+  Free : Reliable. Does what it needs to do, and all in your web browser. Has nifty tools like OCR and countless custom apps for various tasks (which I've never used).
+  
+## Making Surveys
+
+* [Google Forms](https://docs.google.com/forms/u/0/) <br>
+  Free : Does everything you need it to. You can add sections, videos and descriptive text passages.
+* [Microsoft Forms](https://forms.office.com/Pages/DesignPage.aspx?origin=shell#) <br>
+  Free : Does everything you need it to. You can see how long on average people take to complete the survey. Allows branching so you can skip questions that aren't relevant. 
+* [Survey Monkey](https://www.surveymonkey.com/) <br>
+  Free : But for pro features you need to pay. Requires sign up. It's not worth the hassle, unless you need some obscure feature.
