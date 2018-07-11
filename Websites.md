@@ -10,13 +10,12 @@
   Free : Requires sign up. Just as easy as the above, limited "power ups" such as calendar view before you have to pay.
   
 ## Doing Work
-#### File storage, sharing and editing.
 
 * [Microsoft Office](https://www.office.com) <br>
-  Free : A better version of Google Drive (yes, it has real time collaboration on all documents as well). The online editor for Word isn't as nice as Docs, but that doesn't matter because you would use the normal Word software anyway. OneDrive is where you will store and share all your project files.
+  Free : A better version of Google Drive (it has real time collaboration on all documents). The online editor for Word isn't as smooth as Docs, but that doesn't matter because you'd use the normal Word software anyway. OneDrive is where you will store and share all your project files.
   
 * [Google Drive](https://drive.google.com/drive/u/0/) <br>
-  Free : Reliable. Does what it needs to do, and all in your web browser. Has nifty tools like OCR and countless custom apps for various tasks (which I've never used).
+  Free : Reliable. Does what it needs to do, and all in your web browser. Has nifty tools like OCR and countless custom apps for various tasks (which I've never used). Stuff like Google Sites and Google My Maps are its real unique selling point
   
 ## Making Surveys
 
