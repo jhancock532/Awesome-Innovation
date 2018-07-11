@@ -10,7 +10,7 @@
   Free : Requires sign up. Just as easy as the above, limited "power ups" such as calendar view before you have to pay.
   
 ## Doing Work
-#### Includes file sharing, text editors, online surveys - everything.
+#### File storage, sharing and editing.
 
 * [Microsoft Office](https://www.office.com) <br>
   Free : A better version of Google Drive (yes, it has real time collaboration on all documents as well). The online editor for Word isn't as nice as Docs, but that doesn't matter because you would use the normal Word software anyway. OneDrive is where you will store and share all your project files.
