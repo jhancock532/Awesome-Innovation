@@ -10,6 +10,6 @@ It includes
  * General interesting resources and advice
  
 I'll be adding to this Github repository over time, and I would appreciate any additions you want to share. 
-Message me on Facebook, drop a line at jh17112@my.bristol.ac.uk or tweet whatever it is to @jh531 
+Message me on Facebook, drop a line at jh17112@my.bristol.ac.uk or tweet whatever it is to [@jh531](https://twitter.com/jh531) 
 
 James
