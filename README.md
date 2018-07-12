@@ -1,4 +1,4 @@
-# An Innovation Introduction
+# An Introduction
 
 Hi!
 
