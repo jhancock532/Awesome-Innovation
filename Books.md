@@ -1,7 +1,5 @@
 # Books
 
-#### Suggest your own books!
-
 ## General Advice
 
 Don't read and then forget. Use markers (tear up postit notes) to keep track of insights, then write up thoughts in your journal. Noting quotes and page numbers will help your essay referencing. 
