@@ -4,7 +4,7 @@
 <br> To inspire you, here are some things I've put into various essays.
   - Discourse on the blue rubber bands that hold together bunches of spring onions in Bristol.<br>
   *Showing awareness of the larger system in which we design in, focusing on the impact of even the smallest design choice.*
-  - Observations from sitting on a bench for two hours.
+  - Observations from sitting on a bench for two hours.<br>
   *Investigation into the fundamentals of observation practice, leading to an insight about how to approach innovation practice as a whole*
-  - Referencing proof that we should ideate alone.
+  - Referencing proof that we should ideate alone.<br>
   *Just being controversial really.*
