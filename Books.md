@@ -8,11 +8,20 @@ Don't read and then forget. Use markers to keep track of insights, then write up
 
 ## Innovation Books
 
-* Think Like an Artist - To be reviewed (need to re-read this one, plenty of innovation material)
-* Cracking Creativity - How to come up with ideas. This book is on your reading list. You should read it.
-* Life's a Pitch - How to pitch an idea, and how to live life successfully. Surprisingly similar. An insight on every page.
-* The Ten Faces of Innovation - It's on the reading list, but I didn't make it past the second page. To be reviewed.
+* Think Like an Artist <br>
+  Explains how to think like an artist. I should read it again.
+* Cracking Creativity <br>
+  How to come up with ideas. This book is on your reading list. You should read it.
+* Life's a Pitch <br>
+  How to pitch an idea, and how to live life successfully. Surprisingly similar. A good insight on most pages.
+* The Ten Faces of Innovation <br>
+  It's on the reading list, but I didn't make it past the second page. To be reviewed.
+* The Innovator's DNA <br>
+  For business people. Contains five key "discovery skills". Good section on experimenting.
 
 ## Less Relevant, But Interesting Books
 
-* Into The Woods - How stories work. Underlying story structure and story archetype theory. (Stories are very important!)
+* Into The Woods <br>
+  How stories work. Underlying story structure and story archetype theory. (Stories are very important!)
+* Selfie (How the west became self-obsessed) <br>
+  Perfectionism, self improvement, personal image, individualism. Will Storr provides a wonderful, liberating perspective on this madness we live in.
