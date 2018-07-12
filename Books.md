@@ -19,9 +19,9 @@ Don't read and then forget. Use markers to keep track of insights, then write up
 * The Innovator's DNA <br>
   For business people. Contains five key "discovery skills". Good section on experimenting.
 
-## Less Relevant, But Interesting Books
+## Awesome Books
 
 * Into The Woods <br>
-  How stories work. Underlying story structure and story archetype theory. (Stories are very important!)
+  How stories work. Underlying story structure and story archetype theory. Well written, highly insightful.
 * Selfie (How the west became self-obsessed) <br>
   Perfectionism, self improvement, personal image, individualism. Will Storr provides a wonderful, liberating perspective on this madness we live in.
