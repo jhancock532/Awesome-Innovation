@@ -7,3 +7,5 @@
   *Investigation into the fundamentals of observation practice, leading to an insight about how to approach innovation practice as a whole*
   - Referencing proof that we should ideate alone.<br>
   *Just being controversial really.*
+
+**Disclaimer - If any of this advice doesn't work, make sure to write about it in our innovation journal**
