@@ -12,16 +12,15 @@
 
 * Read through the brief document. Finding it is the first challenge, so be sure to save it to your desktop and the team's shared file system. Proceed to summerise all the vital information of the brief document in another document - if it's a good brief, you'll be writing out basically everything. Engaging in the brief in this way will help you understand it, later on you will forget some of the details, so never be afraid to return to it if you are confused.
 
-## On team leaders
+## On team leaders, or at least team organisers
 
-* Nominate a team leader in one of your earlier meetings. It doesn't matter if they "aren't a leader", if you read "Do Lead" you'll find that no leader really follows the conventional idea of what you think a leader is. All your team really need is someone they trust. 
+* Nominate a team leader in one of your earlier meetings. It doesn't matter if they "aren't a leader", if you read "Do Lead" you'll find that no leader completely follows the conventional idea of what you think a leader is. All your team really need is someone they trust. 
   - Someone they trust to understand the brief, to know what needs to be done, and to stop the session going too far off track. 
   - Someone they trust to organise meetings, to keep an eye on the deadlines, and maybe have a rough timeplan set out.
   - Someone they trust to not go mad with power and make "executive" decisions. Someone who is respectful and will keep it democratic.
 * You can give them extra equity as a bonus, or agree to reduce their workload elsewhere.
-* Team leaders shouldn't have to scarifice themselves and their time to the project, but naturally with the increased responsibility they hold they'll become more attached to the project than other team members. Be wary of this, as there is a fine difference between having the most responsibility for a project and taking ownership of a project. 
-  
-> You need to clearly define who has what responsibility.
+* Naturally with the increased responsibility team leaders hold they'll become more attached to the project than other team members. This might lead the team leader to take ownership of the project.
+* The "team leader" I've described above is more like a team organiser, the minimum required to ensure that things run smoothly. **But don't let yourself be limited by my minimum requirement definition of a leader.** Maybe your team works better with a visionary, motiviational team leader who focuses on big ideas, while the details of meetings and a time plan are sorted out by the team administrator. Experiment and see what works well for your team.
 
 ## On writing ideas down
 
