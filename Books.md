@@ -1,11 +1,5 @@
 # Books
 
-## General Advice
-
-Don't read and then forget. Use markers (tear up postit notes) to keep track of insights, then write up thoughts in your journal. Noting quotes and page numbers will help your essay referencing. 
-
-Give yourself time to read and think, and don't leave it to late on in the term. Get ahead when you have a lull in other work.
-
 ## Innovation Books
 
 * [Think Like an Artist](https://www.amazon.co.uk/Think-Like-Artist-Creative-Productive/dp/0241970806) <br>
