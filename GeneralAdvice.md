@@ -32,4 +32,9 @@
 * Discuss the equity share sheets throughout the project, making sure everybody understands and is happy with what they have contributed to project so far. If they feel like their current percentage isn't high enough, then they can take on extra work to boost their equity score. If you do this even once at the midway review of your project, you will save regrets later of people saying "I wish I had done a bit more".
 * Write down what you've done - keep a record. If you are a team leader you could keep track of what everyone does.
 
+## On reading books
+
+* Don't read and then forget. Use markers (tear up postit notes) to keep track of insights, then write up thoughts in your journal. Noting quotes and page numbers will help your essay referencing. 
+* Give yourself time to read and think, and don't leave it to late on in the term. Get ahead when you have a lull in other work.
+
 **Disclaimer - If any of this advice doesn't work, make sure to write about it in our innovation journal**
