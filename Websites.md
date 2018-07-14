@@ -19,7 +19,7 @@
   
 ## Blogging
 
-* [Blogger](https://www.blogger.com/)
+* [Blogger](https://www.blogger.com/) <br>
   Free : When Travis or Keir ask you to keep a blog of your adventures on a project, this is probably what you'll use. Super friendly for non coders. ★★★
   
 ## Making Surveys
@@ -47,5 +47,5 @@
   
 ## Arty Stuff!
 
-* [Word Cloud Generator](https://www.wordclouds.com/)
+* [Word Cloud Generator](https://www.wordclouds.com/) <br>
   Free : Really easy to use, no download or sign up required. Perfect for what you need it to do. ★★★
