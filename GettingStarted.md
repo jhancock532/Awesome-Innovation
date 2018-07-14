@@ -7,3 +7,4 @@
 
 ## Course Stuff
  * Read your unit description of what the innovation course is about.
+ * Check out the reading list.
