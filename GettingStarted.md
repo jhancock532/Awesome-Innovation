@@ -1,6 +1,6 @@
 # Getting Started
-#### Welcome to innovation! Here are some things to add to your todo list, if you haven't done them already.
----
+Hopefully, this will become a guide for new innovation students, helping them get set up. I haven't thought much about this yet, but would love other people's thoughts.
+
 ## Technical Stuff
  * Get your Wifi access working : https://www.wireless.bris.ac.uk/eduroam/instructions/
  * Install the Microsoft Office apps : https://www.bristol.ac.uk/software/large-supplier-agreements/freestudentoffice.html
