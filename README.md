@@ -2,7 +2,7 @@
 
 Hi!
 
-This course is slightly unconventional. Like an art course, you are expected to explore the course theme in your own time, and in your own direction (A-Levels in STEM subjects did not prepare me for this whatsoever). To make it easier for everyone involved, I'm curating this library of resources, materials and advice.
+This course is slightly unconventional. To make it easier for everyone involved, I'm curating this library of resources, materials and advice.
 
 It includes
  * Websites to get things done.
