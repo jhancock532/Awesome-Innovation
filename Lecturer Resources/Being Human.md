@@ -5,5 +5,5 @@
 ## Other Useful Links
 - [Keir's Website](https://www.keirwilliams.com/)
 - [Being Human Course on Keir's Site](https://www.keirwilliams.com/teaching/beinghuman/) *All pCloud links are deleted, but he'll probably have the files somewhere.*
-- [Instagram](https://www.instagram.com/bh_cfie/)
-- [Twitter](https://twitter.com/BH_CFIE)
+- [Being Human Instagram](https://www.instagram.com/bh_cfie/)
+- [Being Human Twitter](https://twitter.com/BH_CFIE)
