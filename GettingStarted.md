@@ -8,3 +8,7 @@ Hopefully, this will become a guide for new innovation students, helping them ge
 ## Course Stuff
  * Read your unit description of what the innovation course is about.
  * Check out the reading list.
+ * Get on Blackboard, find the innovation courses, bookmark them.
+ 
+ 
+
