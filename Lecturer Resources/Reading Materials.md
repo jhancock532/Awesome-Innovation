@@ -14,5 +14,9 @@ What follows are links to reading sent out in various emails over the first year
 
 
 ### Social Activism
-- https://www.bitchmedia.org/article/double-union (All woman hackspace in San Fran)
+- https://www.bitchmedia.org/article/double-union *All woman hackspace in San Fran*
+
+### Speaker Profiles
+- https://www.rca.ac.uk/more/staff/dr-rob-phillips/ *"Don't make a bloody app."*
+- http://lalyagaye.com/ 
 
