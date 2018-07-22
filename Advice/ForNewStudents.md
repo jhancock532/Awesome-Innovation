@@ -11,4 +11,5 @@ Hopefully, this will become a guide for new innovation students, helping them ge
  * Get on Blackboard, find the innovation courses, bookmark them.
  
 The University is huge. Start by scrolling through [this](http://www.bristol.ac.uk/index/).
+Explore the [innovation site](http://www.bristol.ac.uk/innovation/).
 
