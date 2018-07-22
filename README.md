@@ -1,9 +1,9 @@
 ## Contents
 
- * **Official Resources** - Material provided by your lecturers about your course.
- * **Getting Things Done** - Useful software and websites to do innovative things.
- * **Reading Materials** - Books and online articles for reflective essays.
- * **Advice** - Advice from innovation students to innovation students.
+ * **[Official Resources](https://github.com/jhancock532/Awesome-Innovation/tree/master/Official%20Resources)** - Material provided by lecturers about your course.
+ * **[Getting Things Done](https://github.com/jhancock532/Awesome-Innovation/tree/master/Getting%20Things%20Done)** - Useful software and websites to do innovative things.
+ * **[Reading Materials](https://github.com/jhancock532/Awesome-Innovation/tree/master/Reading%20Materials)** - Books and online articles for reflective essays.
+ * **[Advice](https://github.com/jhancock532/Awesome-Innovation/tree/master/Advice)** - Advice from innovation students to innovation students.
 
 ### Together we can help each other make the most of this course. <br> Use [this form](https://goo.gl/forms/t15lqQeymWJSMP612) to submit your own resource! 
 
