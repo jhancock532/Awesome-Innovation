@@ -1,5 +1,5 @@
 ### Access the offical Being Human reading lists at the following links.
-- https://rl.talis.com/3/bristol/lists/614774E4-3DDC-60F5-C217-37B4EBAF7722.html (2017/2018) *Old, has more material than current.*
+- https://rl.talis.com/3/bristol/lists/614774E4-3DDC-60F5-C217-37B4EBAF7722.html (2017/2018)
 - https://rl.talis.com/3/bristol/lists/A9E83482-54C0-1D3C-DF26-C62FB1C353C7.html (2018/2019) 
 
 For other materials regarding your course, including mark schemes for reflective essays, challenge briefs and the unit guide, go to [Blackboard](https://www.ole.bris.ac.uk/) and look around the Being Human section. If you can't find it, [email Keir](mailto:keir.williams@bristol.ac.uk) about it.
