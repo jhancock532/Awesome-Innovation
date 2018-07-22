@@ -1,15 +1,17 @@
 # Getting Started
-Here is the offical site - https://www.bristol.ac.uk/students/new/
+Here is the [offical site](https://www.bristol.ac.uk/students/new/) for getting all your administrative stuff sorted that isn't innovation specific.
 
-## Technical Stuff
- * Get your Wifi access working : https://www.wireless.bris.ac.uk/eduroam/instructions/
+## Some Good First Steps
+ * Get your Wifi access working : https://www.wireless.bris.ac.uk/eduroam/instructions/ 
  * Install the Microsoft Office apps : https://www.bristol.ac.uk/software/large-supplier-agreements/freestudentoffice.html
 
 ## Course Stuff
- * Read your unit description of what the innovation course is about.
- * Check out the reading list.
  * Get on Blackboard, find the innovation courses, bookmark them.
- 
-The University is huge. Start by scrolling through [this](http://www.bristol.ac.uk/index/).
-Explore the [innovation site](http://www.bristol.ac.uk/innovation/).
+ * Read the introductions to the modules you are studying.<br>
+   [Design and Systems Thinking](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10002) <br>
+   [Being Human](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10001)
+
+
+To be sacred by the size of the University, explore [this](http://www.bristol.ac.uk/index/).
+Check out the [innovation site](http://www.bristol.ac.uk/innovation/).
 
