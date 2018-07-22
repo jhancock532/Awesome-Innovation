@@ -1,16 +1,16 @@
-## An Introduction
+## Introduction
 
 Hi!
 
-This course is slightly unconventional. To make it easier for everyone involved, I'm curating this library of resources, materials and advice.
+This course is slightly unconventional. To make it easier for everyone involved, I'm hosting this shared library of resources, materials and advice.
 
 It includes
- * Websites to get things done.
- * Books for your reflective essays.
- * Advice of dubious quality.
+ * Free software/websites to get things done.
+ * Material for your reflective essays.
+ * Links to unit information.
  
-I'll be adding to this Github repository over time, and I would appreciate any additions you want to share.
-Message me on Facebook, drop a line at jh17112@my.bristol.ac.uk or tweet it to [@jh531](https://twitter.com/jh531) 
+Together we can help each other make the most of this course. Use the following form to submit your own resource! 
+https://goo.gl/forms/t15lqQeymWJSMP612
 
 James
 
