@@ -1,5 +1,5 @@
 # Getting Started
-Hopefully, this will become a guide for new innovation students, helping them get set up. I haven't thought much about this yet, but would love other people's thoughts.
+Here is the offical site - https://www.bristol.ac.uk/students/new/
 
 ## Technical Stuff
  * Get your Wifi access working : https://www.wireless.bris.ac.uk/eduroam/instructions/
