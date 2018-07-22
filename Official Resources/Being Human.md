@@ -11,7 +11,7 @@ For the most up to date materials regarding your course, including mark schemes 
 
 ### Other Useful Links
 - [Keir's Website](https://www.keirwilliams.com/)
-- [Being Human Course on Keir's Site](https://www.keirwilliams.com/teaching/beinghuman/) *All pCloud links are deleted, so no slides :(*
+- [Being Human Course on Keir's Site](https://www.keirwilliams.com/teaching/beinghuman/)
 - [Being Human Instagram](https://www.instagram.com/bh_cfie/)
 - [Being Human Twitter](https://twitter.com/BH_CFIE)
 
