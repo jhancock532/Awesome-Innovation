@@ -1,5 +1,7 @@
 
 
+Learn how to access various reading materials for free with UOB credentials : http://www.bristol.ac.uk/library/find/access-eresources/
+
 What follows are links to reading sent out in various emails over the first years of the course.
 
 # 2016
