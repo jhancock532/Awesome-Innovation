@@ -7,9 +7,9 @@ Here is the [offical site](https://www.bristol.ac.uk/students/new/) for getting 
 
 ## Course Stuff
  * Get on Blackboard, find the innovation courses, bookmark them.
- * Read the introductions to the modules you are studying.<br>
-   [Design and Systems Thinking](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10002) <br>
-   [Being Human](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10001)
+ * Read the introductions to the modules you are studying,
+   [Design and Systems Thinking](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10001) and
+   [Being Human](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10002)
 
 
 To be sacred by the size of the University, explore [this](http://www.bristol.ac.uk/index/).
