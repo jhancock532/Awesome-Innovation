@@ -9,8 +9,7 @@ It includes
  * Material for your reflective essays.
  * Links to unit information.
  
-Together we can help each other make the most of this course. Use the following form to submit your own resource! 
-https://goo.gl/forms/t15lqQeymWJSMP612
+Together we can help each other make the most of this course. Use [this form](https://goo.gl/forms/t15lqQeymWJSMP612) to submit your own resource! 
 
 James
 
