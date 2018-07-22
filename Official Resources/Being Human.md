@@ -1,6 +1,6 @@
 # Being Human
 
-For the most up to date materials regarding your course, including mark schemes for reflective essays, challenge briefs and the unit guide, go to [Blackboard](https://www.ole.bris.ac.uk/) and look around the Being Human section. If you can't find it, [email Keir](mailto:keir.williams@bristol.ac.uk) and he will point you in the right direction.
+For the most up to date materials regarding your course, including mark schemes for reflective essays, challenge briefs and the unit guide, go to [Blackboard](https://www.ole.bris.ac.uk/) and look around the Being Human section. If you can't find it, email Keir and he will point you in the right direction.
 
 ### Unit Description
 [This describes what the module is and what you are learning from it.](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=INOV10002) **Read it!**
