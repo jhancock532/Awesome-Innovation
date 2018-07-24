@@ -44,7 +44,9 @@
   Free : So easy, and it's hosted for you with no charge. There is a subtle banner at the bottom, and it might not be flexible enough for everything you want it to do. Suitable for poeple who have no coding experience. ★★
 * [CodePen](https://codepen.com) <br>
   Free : Quickly code your web ideas and host them online for free. I use this a lot when coding with Javascript. Not suitable for non coders, sorry. ★★
-  
+* [Cloudinary](https://cloudinary.com/console/media_library/folders/all/) <br>
+  Free : Host images, mp3, any file type! There are limits for the free tier, but it's generous.
+
 ## Arty Stuff!
 
 * [Word Cloud Generator](https://www.wordclouds.com/) <br>
