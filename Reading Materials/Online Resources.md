@@ -1,3 +1,4 @@
+# Innovation Reading Materials
 Learn how to access various reading materials for free with UOB credentials : http://www.bristol.ac.uk/library/find/access-eresources/
 
 ### Innovation and Ageing
@@ -14,9 +15,10 @@ Learn how to access various reading materials for free with UOB credentials : ht
 
 ### Miscellaneous Links 
  - https://placesjournal.org/article/interfacing-urban-intelligence/
- - http://tangible-memories.com/
- 
+ - http://tangible-memories.com/ *Where the current innovation staff are showing off their work*
 
-
+# General Online Learning
+ - https://trailhead.salesforce.com/en/home *Salesforce*
+ - https://digital.wings.uk.barclays/for-everyone *Digital Wings*
 
  - https://placesjournal.org/news/call-for-articles-design-education/ (Perhaps the lecturers might be interested in this opportunity...)
