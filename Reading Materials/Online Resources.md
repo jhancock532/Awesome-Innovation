@@ -18,7 +18,6 @@ Learn how to access various reading materials for free with UOB credentials : ht
  - http://tangible-memories.com/ *Where the current innovation staff are showing off their work*
 
 # General Online Learning
- - https://trailhead.salesforce.com/en/home *Salesforce*
- - https://digital.wings.uk.barclays/for-everyone *Digital Wings*
-
- - https://placesjournal.org/news/call-for-articles-design-education/ (Perhaps the lecturers might be interested in this opportunity...)
+ - [Salesforce](https://trailhead.salesforce.com/en/home) - Has a few random courses that aren't to do with Salesforce.
+ - [Barclays Digital Wings](https://digital.wings.uk.barclays/for-everyone) - If you don't know much general tech knowledge, this will get you up to speed and further ahead than most compsci students.
+ - [Khan Academy](https://www.khanacademy.org/) - Sal is your best friend. If you haven't found this site and are studying a science/maths degree, your day is about to get a lot better.
