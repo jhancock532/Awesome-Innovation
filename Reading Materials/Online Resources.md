@@ -1,5 +1,11 @@
 # Innovation Reading Materials
-Learn how to access various reading materials for free with UOB credentials : http://www.bristol.ac.uk/library/find/access-eresources/
+Learn how to access various reading materials for free with UOB credentials [here](http://www.bristol.ac.uk/library/find/access-eresources/).
+
+### Design and Systems
+- [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme) *Wow, that's an unbelieveable amount of resources. That URL contains links to over 100 times the knowledge I have of Design and Systems thinking.*
+
+### Citizen Science
+- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme) *Wow, that's a lot of resources.*
 
 ### Ageing
 - https://www.nesta.org.uk/archive-pages/centre-for-social-action-innovation-fund-ageing-well/
@@ -8,12 +14,6 @@ Learn how to access various reading materials for free with UOB credentials : ht
 
 ### Social Activism
 - https://www.bitchmedia.org/article/double-union *All woman hackspace in San Fran*
-
-### Citizen Science
-- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme) 
-
-### Design and Systems
-- [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme)
 
 ### Speaker Profiles
 - https://www.rca.ac.uk/more/staff/dr-rob-phillips/ *"Don't make a bloody app."*
