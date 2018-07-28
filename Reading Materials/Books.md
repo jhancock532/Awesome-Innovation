@@ -1,6 +1,4 @@
-# Books
-
-## Innovation Books
+# Innovation Books
 
 * [Think Like an Artist](https://www.amazon.co.uk/Think-Like-Artist-Creative-Productive/dp/0241970806) <br>
   Explains how to think like an artist. I should read it again. ★★★
@@ -17,7 +15,7 @@
 * [The Ten Faces of Innovation](https://www.amazon.co.uk/Ten-Faces-Innovation-Strategies-Heightening/dp/1781256152/ref=sr_1_1?s=books&ie=UTF8&qid=1531421841&sr=1-1&keywords=ten+faces+of+innovation) <br>
   It's on the reading list, but I didn't make it past the first chapter. Will try again eventually. ★
   
-## Good Reads in General 
+# Insightful Reading
 
 ### Storytelling
 
