@@ -4,7 +4,7 @@
  * **[Getting Things Done](https://github.com/jhancock532/Awesome-Innovation/tree/master/Getting%20Things%20Done)** - Useful software and websites to do innovative things.
  * **[Reading Materials](https://github.com/jhancock532/Awesome-Innovation/tree/master/Reading%20Materials)** - Books and online articles for reflective essays.
  * **[Advice](https://github.com/jhancock532/Awesome-Innovation/tree/master/Advice)** - Advice from innovation students to innovation students.
- * **[Obscure Opportuinities Department](https://github.com/jhancock532/Awesome-Innovation/tree/master/Advice)** - A collection of obscure opportuinities, curated by an obscure opportuinity addict.
+ * [Obscure Opportuinities Department](https://github.com/jhancock532/Awesome-Innovation/blob/master/Obscure%20Opportuinities%20Department.md) - A collection of obscure opportuinities.
 
 ### Together we can help each other make the most of this course. <br> Use [this form](https://goo.gl/forms/t15lqQeymWJSMP612) to submit your own resource! 
 
