@@ -47,7 +47,10 @@
 * [Cloudinary](https://cloudinary.com/console/media_library/folders/all/) <br>
   Free : Host images, mp3, any file type! There are limits for the free tier, but it's generous.
 
-## Arty Stuff!
+## Design
+
+* [Gravit](https://designer.gravit.io/)<br>
+  Free : A swish online design tool, there is also a downloadable verison for those who distrust their browsers. This was submitted anonymously by an innovation student, and is pending a rating.
 
 * [Word Cloud Generator](https://www.wordclouds.com/) <br>
   Free : Really easy to use, no download or sign up required. Perfect for what you need it to do. ★★★
