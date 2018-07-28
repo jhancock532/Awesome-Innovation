@@ -1,5 +1,5 @@
 
-- **You can submit articles into the [student newsletter](http://www.bristol.ac.uk/students/newsletter/).**<br>
+- **You can submit articles into the [student newsletter email](http://www.bristol.ac.uk/students/newsletter/).**<br>
   *Do you have some news, an achievement, or an aspect of Bristol life that you would like to share? If so, we would love to hear from you. Email student-comms@bristol.ac.uk.*
 - **There is a [website](http://www.bristol.ac.uk/students/opportunities/) dedicated to student opportuinities** <br>
   *Free stuff! Well, more like free stuff to put on your CV, but cool nonetheless. There's also a [website](http://www.bristol.ac.uk/students/services/) dedicated to student services. In fact, there are too many useful university websites.*
