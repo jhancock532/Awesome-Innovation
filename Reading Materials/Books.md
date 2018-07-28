@@ -19,9 +19,16 @@
   
 ## Good Reads in General 
 
+### Storytelling
+
 * [Into The Woods](https://www.amazon.co.uk/Into-Woods-Stories-Work-Tell/dp/0141978104/ref=sr_1_1?s=books&ie=UTF8&qid=1531422033&sr=1-1&keywords=into+the+woods) <br>
   How stories work. Underlying story structure and story archetype theory. Well written, highly insightful.
 * [Do Story](https://www.amazon.co.uk/Do-Story-World-Listens-Books/dp/1907974059/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RG74XJAH1MYKXW9EYSA5) <br>
   Good general tips for telling a good story. Not as fundamental as Into the Woods, but it's in Queens library, so you've got nothing to lose.
+  
+### Common Sense
+  
 * [Selfie (How the west became self-obsessed)](https://www.amazon.co.uk/Selfie-How-West-Became-Self-Obsessed/dp/144728366X/ref=sr_1_1?s=books&ie=UTF8&qid=1531422065&sr=1-1&keywords=selfie) <br>
-  Perfectionism, self improvement, personal image, individualism. Will Storr provides a wonderful, liberating perspective on this madness we live in.
+  Brings a revealing map to perfectionism, self improvement, personal image and individualism. Will Storr shows how the mess of societies ideals came about, and provides a liberating perspective on this madness we live in.
+* [The Age of Absurdity](https://www.amazon.co.uk/Age-Absurdity-Modern-makes-Happy/dp/1847396275) <br>
+  A broader and lighter read than Selfie, from an author who by different means is tackling the same theme. Michael Foley makes more generalisations about the individual, which Will Storr tries to avoid, but this seems to make it a more relatable book. The insights that he presents are as powerful as those in Selfie, and his writing takes on an easily readable academic style, in comparision to the  journalistic Selfie. 
