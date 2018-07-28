@@ -5,7 +5,7 @@ Learn how to access various reading materials for free with UOB credentials [her
 - [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme) <br> **Clicking this link should be mandatory for first year innovation students.** Wow, that's an unbelieveable amount of resources. That URL contains links to over 100 times the knowledge I have of Design and Systems thinking.
 
 ### Citizen Science
-- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme) <br>*A similarly huge list of resources. First year students, remember this - you can use it later in the year for Being Human research.*
+- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme) <br> Not mandatory for first year students, but it seems a good research resource for your Citizen Science projects as part of Being Human.*
 
 ### Ageing
 - https://www.nesta.org.uk/archive-pages/centre-for-social-action-innovation-fund-ageing-well/
@@ -22,6 +22,7 @@ Learn how to access various reading materials for free with UOB credentials [her
 ### Miscellaneous Links 
  - https://placesjournal.org/article/interfacing-urban-intelligence/
  - http://tangible-memories.com/ *Where the current innovation staff are showing off their work*
+
 
 # General Online Learning
  - [Salesforce](https://trailhead.salesforce.com/en/home) - Has a few random courses that aren't to do with Salesforce.
