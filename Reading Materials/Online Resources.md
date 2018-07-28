@@ -2,10 +2,10 @@
 Learn how to access various reading materials for free with UOB credentials [here](http://www.bristol.ac.uk/library/find/access-eresources/).
 
 ### Design and Systems
-- [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme) <br> **Clicking this link should be mandatory for first year innovation students.** Wow, that's an unbelieveable amount of resources. That URL contains links to over 100 times the knowledge I have of Design and Systems thinking.
+- [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme)
 
 ### Citizen Science
-- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme) <br> Not mandatory for first year students, but it seems a good research resource for your Citizen Science projects as part of Being Human.*
+- [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme)
 
 ### Ageing
 - https://www.nesta.org.uk/archive-pages/centre-for-social-action-innovation-fund-ageing-well/
