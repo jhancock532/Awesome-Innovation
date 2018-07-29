@@ -5,4 +5,6 @@
   *Free stuff! Well, more like free stuff to put on your CV, but cool nonetheless. There's also a [website](http://www.bristol.ac.uk/students/services/) dedicated to student services. In fact, there are too many useful university websites.*
 - **Work with Ideo and countless others online to change the world through design opportuinites at [OpenIDEO](https://www.openideo.com/)**. <br>
   *Sign up to their mailing list to get notified about new opportuinities. Mailing lists are great things for opportuinities.*
+- **Listen to the stories of Bristol startups through the [Konichiwa Agency](https://www.facebook.com/konichiwapr/?hc_location=ufi)**.<br>
+  
 
