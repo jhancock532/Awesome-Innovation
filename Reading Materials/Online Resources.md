@@ -3,6 +3,8 @@ Learn how to access various reading materials for free with UOB credentials [her
 
 ### Design and Systems
 - [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme)
+- [Design Kit](http://www.designkit.org/) *Travis likes recommending this one.*
+- [BeCreate](http://www.becreate.ch/en/methods.aspx) *The swiss child of Design Kit. Smaller.*
 
 ### Citizen Science
 - [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme)
