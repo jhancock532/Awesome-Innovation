@@ -1,6 +1,6 @@
 # PDFs on Innovation
 
-The PDF files can be accessed by the following links, where I retrieved them initally. 
+Pro tip! Use Google and search whatever you are interested in, then add pdf at the end of it. Suddenly, you get a lot more quality content other than blog posts recommending "5 ways to uncover impactful insights you won't believe!". To be honest, I don't really need to link these files here, they are so easy to access using the above method.
 
 ### Design Thinking
 
@@ -12,7 +12,7 @@ https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attac
  - From the Institute of Design at Stanford.
 
 [Basics Design: Design Thinking](http://asimetrica.org/wp-content/uploads/2014/06/design-thinking.pdf)
- - The art or practice of using your mind to design. 202 pages.
+ - "The art or practice of using your mind to design." 202 pages.
 
-http://www.rcsc.gov.bt/wp-content/uploads/2017/07/dt-guide-book-master-copy.pdf
- - I've actually read this one, it contains useful practical methods and tons of example exercise sheets that you could print out and use in innovation sessions. Doesn't subscribe to the four part innovation process, "next steps" and real world implementation has it's own catergory. Useful diagrams about the innovation process as a whole.
+[Design Thinking: The Guidebook](http://www.rcsc.gov.bt/wp-content/uploads/2017/07/dt-guide-book-master-copy.pdf)
+ - I've actually read this one, it contains useful practical methods and tons of example exercise sheets that you could print out and use in innovation sessions. Doesn't subscribe to the four part innovation process, "next steps" and real world implementation has it's own catergory. Useful diagrams about the innovation process as a whole. 77 pages, but light material with diagrams - the other 70 pages are templates.
