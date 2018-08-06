@@ -1,4 +1,5 @@
 # Innovation Books
+If you are a new student, the single book I would recommend is [Cracking Creativity](https://www.amazon.co.uk/Cracking-CreativitySecrets-Creative-Genius-Business/dp/1580083110/ref=sr_1_1?s=books&ie=UTF8&qid=1531421710&sr=1-1&keywords=cracking+creativity),  there is a copy in the Queen's library if you're lucky. 
 
 * [Think Like an Artist](https://www.amazon.co.uk/Think-Like-Artist-Creative-Productive/dp/0241970806) <br>
   Explains how to think like an artist. If you are into the art-side, give it a go. ★★★
@@ -9,9 +10,9 @@
 * [Life's a Pitch](https://www.amazon.co.uk/Lifes-Pitch-Yourself-Brilliant-Ideas/dp/0552156833/ref=sr_1_1?s=books&ie=UTF8&qid=1531421745&sr=1-1&keywords=lifes+a+pitch) <br>
   How to pitch an idea, and also "how to live life successfully" (you have been warned, it gets weird). A good insight on most pages in the first half. Second half is less useful. ★★★
 * [Do Lead](https://www.amazon.co.uk/Do-Lead-Vision-Inspire-Impossible/dp/1907974172) <br>
-  Learn what a leader actually is. It turns out that there are many flavours, and **you** are already a leader. Found in Queens library. ★★★
+  Learn what a leader actually is - it's not what I thought. Found in Queens library. ★★★
 * [Do Protect](https://www.amazon.co.uk/Do-Protect-Legal-Advice-Startups/dp/1907974156) <br>
-  Covers the legal aspects of being a start-up. Availible in the Queens library, worth a go (You'll be surprised about all the things you have to worry about, or get your lawyer to worry about.)  ★★★
+  Covers the legal aspects of being a start-up. Availible in the Queens library, worth flick through if you see it there (You'll be surprised about all the things you have to worry about, or get your lawyer to worry about.)  ★★★
 * [The Innovator's DNA](https://www.amazon.co.uk/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=sr_1_1?s=books&ie=UTF8&qid=1531421874&sr=1-1&keywords=the+innovators+dna) <br>
   For business people. Contains five key "discovery skills". Good section on experimenting, not really worth 23 pounds though. ★★
 * [The Ten Faces of Innovation](https://www.amazon.co.uk/Ten-Faces-Innovation-Strategies-Heightening/dp/1781256152/ref=sr_1_1?s=books&ie=UTF8&qid=1531421841&sr=1-1&keywords=ten+faces+of+innovation) <br>
