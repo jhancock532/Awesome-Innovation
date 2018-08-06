@@ -2,7 +2,7 @@
 
 * [Think Like an Artist](https://www.amazon.co.uk/Think-Like-Artist-Creative-Productive/dp/0241970806) <br>
   Explains how to think like an artist. If you are into the art-side, give it a go. ★★★
-* [Think Like a Designer](https://www.amazon.com/Think-Like-Designer-Dont-Act/dp/9063694857) <br>
+* [Think Like a Designer (Don't Act Like One)](https://www.amazon.com/Think-Like-Designer-Dont-Act/dp/9063694857) <br>
   Not really worth the cost, the design of this book triumphs over its substance. A quick read, 75 numbered insights - the context behind them isn't discussed in detail, but good to flick through for something to think about. Images are top class. ★★
 * [Cracking Creativity](https://www.amazon.co.uk/Cracking-CreativitySecrets-Creative-Genius-Business/dp/1580083110/ref=sr_1_1?s=books&ie=UTF8&qid=1531421710&sr=1-1&keywords=cracking+creativity) <br>
   How to come up with ideas and think creatively. This book isn't on your reading list, but it should be. ★★★
