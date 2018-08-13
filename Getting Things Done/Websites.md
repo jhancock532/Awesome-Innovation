@@ -1,5 +1,5 @@
 # Websites
-#### Know a cool website that isn't here? Suggest it!
+#### Know a cool website that isn't here? [Suggest it!](https://docs.google.com/forms/d/e/1FAIpQLSd3TJ03At5bvRbuliD3uW6VlPplBC_4eYr-oovgw6x_CWv8kg/viewform)
 ---
 
 ## Project Planning
