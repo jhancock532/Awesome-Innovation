@@ -8,7 +8,7 @@ If you are a new student, the single book I would recommend is [Cracking Creativ
 * [Think Like a Designer (Don't Act Like One)](https://www.amazon.com/Think-Like-Designer-Dont-Act/dp/9063694857) <br>
   Not really worth the cost, the design of this book triumphs over its substance. A quick read, 75 numbered insights - the context behind them isn't discussed in detail, but good to flick through for something to think about. Images are top class. 
 * [Cracking Creativity](https://www.amazon.co.uk/Cracking-CreativitySecrets-Creative-Genius-Business/dp/1580083110/ref=sr_1_1?s=books&ie=UTF8&qid=1531421710&sr=1-1&keywords=cracking+creativity) <br>
-  How to come up with ideas and think creatively. This book isn't on your reading list, probably because it focuses on the narrow section of innovation that is ideation, but I'd like it to be. 
+  How to come up with ideas and think creatively. This book isn't on your reading list, probably because it focuses on the narrow section of innovation that is ideation(coming up with ideas), but I'd like it to be, because ideation is the coolest and most misunderstood aspect of innovation.
 * [Life's a Pitch](https://www.amazon.co.uk/Lifes-Pitch-Yourself-Brilliant-Ideas/dp/0552156833/ref=sr_1_1?s=books&ie=UTF8&qid=1531421745&sr=1-1&keywords=lifes+a+pitch) <br>
   How to pitch an idea, and also "how to live life successfully" (you have been warned, it gets weird). A good insight on most pages in the first half. Second half is less useful. 
 * [Do Lead](https://www.amazon.co.uk/Do-Lead-Vision-Inspire-Impossible/dp/1907974172) <br>
