@@ -8,5 +8,6 @@
 - **Listen to the stories of Bristol startups through the [Konichiwa Agency](https://www.facebook.com/konichiwapr/?hc_location=ufi)**.<br>
 - **[This website](https://www.meetup.com) is dedicated to public meet ups, providing many social opportunities outside university societies.**
 - **[Create a group](https://uob.sharepoint.com/sites/systemsupport/SitePages/desktop-groups.aspx) for your society** or just for your projects, with this you can create a sweet SharePoint site.
+- **[The University hosts many public talks](https://www.yammer.com/bristol.ac.uk/#/threads/inGroup?type=in_group&feedId=6501967)**, which you'll learn about if you follow this Yammer group.
   
 
