@@ -7,6 +7,6 @@
   *Sign up to their mailing list to get notified about new opportuinities. Mailing lists are great things for opportuinities.*
 - **Listen to the stories of Bristol startups through the [Konichiwa Agency](https://www.facebook.com/konichiwapr/?hc_location=ufi)**.<br>
 - **[This website](https://www.meetup.com) is dedicated to public meet ups, providing many social opportunities outside university societies.**
-- **[Create a group](https://uob.sharepoint.com/sites/systemsupport/SitePages/online-groups.aspx) for your society** or just for your projects, with this you can create a sweet SharePoint site.
+- **[Create a group](https://uob.sharepoint.com/sites/systemsupport/SitePages/desktop-groups.aspx) for your society** or just for your projects, with this you can create a sweet SharePoint site.
   
 
