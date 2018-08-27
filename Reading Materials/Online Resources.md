@@ -31,3 +31,7 @@ Learn how to access various reading materials for free with UOB credentials [her
  - [Salesforce](https://trailhead.salesforce.com/en/home) - Has a few random courses that aren't to do with Salesforce.
  - [Barclays Digital Wings](https://digital.wings.uk.barclays/for-everyone) - If you don't know much general tech knowledge, this will get you up to speed and further ahead than most compsci students.
  - [Khan Academy](https://www.khanacademy.org/) - Sal is your best friend. If you haven't found this site and are studying a science/maths degree, your day is about to get a lot better.
+
+
+# Stuff to be checked out
+https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking
