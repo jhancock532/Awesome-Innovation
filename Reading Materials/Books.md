@@ -38,6 +38,7 @@ If you are a new student, the single book I would recommend is [Cracking Creativ
   A broader and lighter read than Selfie, from an author who by different means is tackling the same theme. Michael Foley makes more generalisations about the individual, which Will Storr tries to avoid, but this seems to make it a more relatable book.
 * [The Brain is Wider than the Sky](https://www.amazon.co.uk/Brain-Wider-Than-Sky-Solutions/dp/1780220154/ref=sr_1_1?s=books&ie=UTF8&qid=1536090769&sr=1-1&keywords=the+brain+is+wider+than+the+sky) <br>
   This book contrasts humans with machines, and the amount of research that went into it covers all the bases for several baseball games. If you don't know much about the neuroscience and modern technological developments circa 2011, this book will bring you up to speed. It has an interesting paragraph or two related to creativity and innovation, discussing artifical intelligence and Zen koans. 
+  The underlying theme of appreciating complexity > simplicity is a fundamental attribute of systems thinking, and that is one of the core themes of this book.
   
 ### Art
 
