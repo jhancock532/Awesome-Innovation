@@ -54,3 +54,8 @@
 
 * [Word Cloud Generator](https://www.wordclouds.com/) <br>
   Free : Really easy to use, no download or sign up required. Perfect for what you need it to do.
+  
+## Learning to Touch Type
+
+* [Typing Study](https://www.typingstudy.com/) <br>
+  Free : Learning to touch type took me several months using this tool, an excellent daily summer project. If anything, the experience will help you learn anger management. Do a lesson a day, take it slow at the start, and pay attention to the hints, they help.
