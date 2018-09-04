@@ -42,7 +42,7 @@ If you are a new student, the single book I would recommend is [Cracking Creativ
 ### Art
 
 * [Playing to the Gallery](https://www.amazon.co.uk/Playing-Gallery-Contemporary-Struggle-Understood/dp/184614857X)<br>
-  What is art? What is good art? What makes an artist? A short book, it provides vague yet satisfying answers to these three difficult questions. Creativity, originality and many themes arout art are discussed.
+  What is art? What is good art? What makes an artist? In a surprisingly short and funny book, Grayson Perry provides nuanced answers to these three difficult questions. Creativity, originality and many themes aroud art are discussed.
   
 
   
