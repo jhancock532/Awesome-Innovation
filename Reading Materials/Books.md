@@ -9,7 +9,7 @@
 * [Cracking Creativity](https://www.amazon.co.uk/Cracking-CreativitySecrets-Creative-Genius-Business/dp/1580083110/ref=sr_1_1?s=books&ie=UTF8&qid=1531421710&sr=1-1&keywords=cracking+creativity) <br>
   How to come up with ideas and think creatively. This book isn't on your reading list, probably because it focuses on the narrow section of innovation that is ideation(coming up with ideas), but I'd like it to be, because ideation is the coolest and most misunderstood aspect of innovation.
 * [Life's a Pitch](https://www.amazon.co.uk/Lifes-Pitch-Yourself-Brilliant-Ideas/dp/0552156833/ref=sr_1_1?s=books&ie=UTF8&qid=1531421745&sr=1-1&keywords=lifes+a+pitch) <br>
-  How to pitch an idea, and also "how to live life successfully" (you have been warned, it gets weird). A good insight on most pages in the first half. Second half is less useful. 
+  How to pitch an idea, and also "how to live life successfully" (you have been warned, it gets weird). A good insight on most pages in the first half. Second half is less useful. Worth it for the first half however - this is an amazing guide as how to pitch.
 * [Do Lead](https://www.amazon.co.uk/Do-Lead-Vision-Inspire-Impossible/dp/1907974172) <br>
   Learn what a leader actually is - it's not what I thought. This book encouraged me to take on a more of a leaders role for an innovation project, even though I previously didn't identify that way at all. Found in Queens library. 
 * [Do Protect](https://www.amazon.co.uk/Do-Protect-Legal-Advice-Startups/dp/1907974156) <br>
