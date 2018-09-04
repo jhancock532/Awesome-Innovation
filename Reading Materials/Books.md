@@ -1,5 +1,4 @@
 # Innovation Books
-If you are a new student, the single book I would recommend is [Cracking Creativity](https://www.amazon.co.uk/Cracking-CreativitySecrets-Creative-Genius-Business/dp/1580083110/ref=sr_1_1?s=books&ie=UTF8&qid=1531421710&sr=1-1&keywords=cracking+creativity),  there is a copy in the Queen's library if you're lucky. 
 
 * [The Ten Faces of Innovation](https://www.amazon.co.uk/Ten-Faces-Innovation-Strategies-Heightening/dp/1781256152/ref=sr_1_1?s=books&ie=UTF8&qid=1531421841&sr=1-1&keywords=ten+faces+of+innovation) <br>
   It's on the reading list, and it's totally worth getting it. I have done a complete 180 on this one, I gave up after the first chapter the first time (I have no idea why), but having read it properly this time I fully support it. Don't confuse it with the 10 Belbin team roles like I might have done earlier - this book isn't trying to assign roles (it says this a few times), but provides insight into **10** different ways of being innovative. 
