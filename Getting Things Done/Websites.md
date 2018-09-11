@@ -50,7 +50,7 @@
 ## Design
 
 * [Gravit](https://designer.gravit.io/)<br>
-  Free : A swish online design tool, there is also a downloadable verison for those who distrust their browsers. This was submitted anonymously by an innovation student, thank you!
+  Free : A swish online design tool, there is also a downloadable verison for those who distrust their browsers. Thanks to Angus Williams for submitting this resource!
 
 * [Word Cloud Generator](https://www.wordclouds.com/) <br>
   Free : Really easy to use, no download or sign up required. Perfect for what you need it to do.
