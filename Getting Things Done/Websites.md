@@ -33,6 +33,8 @@
 
 ## App Prototyping
 
+* [Atomic.io](https://atomic.io/) <br>
+  Free : Better than Marvelapp, you can use fancy image editing software if you want, or you can just draw in shapes and text. Supports icons, text input and scrollable sections. 
 * [Thunkable](https://thunkable.com/#/) <br> 
   Free : It requires basic levels of coding knowledge if you want it to do something fancy, if not, it's a drag and drop app creator. Creates an actual app file for Android and iOS devices.
 * [Marvelapp](https://marvelapp.com/) <br> 
