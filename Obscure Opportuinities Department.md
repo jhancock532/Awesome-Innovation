@@ -6,8 +6,9 @@
 - **Work with Ideo and countless others online to change the world through design opportuinites at [OpenIDEO](https://www.openideo.com/)**. <br>
   *Sign up to their mailing list to get notified about new opportuinities. Mailing lists are great things for opportuinities.*
 - **Listen to the stories of Bristol startups through the [Konichiwa Agency](https://www.facebook.com/konichiwapr/?hc_location=ufi)**.<br>
-- **[This website](https://www.meetup.com) is dedicated to public meet ups, providing many social opportunities outside university societies.**
+- **[Meetup.com](https://www.meetup.com) is dedicated to public meet ups, providing many social opportunities outside university societies.**
 - **[Create a group](https://uob.sharepoint.com/sites/systemsupport/SitePages/desktop-groups.aspx) for your society** or just for your projects, with this you can create a sweet SharePoint site.
 - **[The University hosts many public talks](https://www.yammer.com/bristol.ac.uk/#/threads/inGroup?type=in_group&feedId=6501967)**, which you'll learn about if you follow this Yammer group.
+- There are several workshops availible for **[Personal Development Planning](https://www.ole.bris.ac.uk/bbcswebdav/courses/PDP_Stu_2017/PDP%20student%20workshops.html)**.
   
 
