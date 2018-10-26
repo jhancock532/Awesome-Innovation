@@ -1,3 +1,10 @@
+Cool Websites
+-------------
+
+- **[Engine Shed](http://www.engine-shed.co.uk/)** - Housed in Brunel’s original station, dating back to 1841, Engine Shed houses a number of ‘Components’ that together make an exciting hub for activity where entrepreneurs, business leaders, academics, students, and corporates can collaborate, inspire, and be inspired, enable and be enabled. It showcases the strengths and innovations of the Bristol and Bath city region in an informative and inspiring way.
+
+Random Facts
+------------
 
 - **You can submit articles into the [student newsletter email](http://www.bristol.ac.uk/students/newsletter/).**<br>
   *Do you have some news, an achievement, or an aspect of Bristol life that you would like to share? If so, we would love to hear from you. Email student-comms@bristol.ac.uk.*
