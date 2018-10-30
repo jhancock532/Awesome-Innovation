@@ -6,6 +6,7 @@ Learn how to access various reading materials for free with UOB credentials [her
 - [Design Kit](http://www.designkit.org/) *Travis likes recommending this one.*
 - [BeCreate](http://www.becreate.ch/en/methods.aspx) *The swiss child of Design Kit. Smaller.*
 - [The Systems Thinker](https://thesystemsthinker.com/) *Lots of contributers, blog/pdf content.*
+- [Run a CSI Lab on Design Thinking](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) *Google's guide on a design thinking workshop.*
 
 ### Citizen Science
 - [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme)
