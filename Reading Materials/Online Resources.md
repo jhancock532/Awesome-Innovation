@@ -11,6 +11,9 @@ Learn how to access various reading materials for free with UOB credentials [her
 ### Citizen Science
 - [Awesome Citizen Science](https://github.com/dylanrees/citizen-science#readme)
 
+### Working with the Commmunity
+- [Knowle West Media Center Publications](https://kwmc.org.uk/about/research/learningresources/) *Inspired by 20 years of work in communities, Knowle West Media Centre has developed a range of action research resources for others to use and learn from.*
+
 ### Ageing
 - https://www.nesta.org.uk/archive-pages/centre-for-social-action-innovation-fund-ageing-well/
 - http://www.owch.org.uk/
