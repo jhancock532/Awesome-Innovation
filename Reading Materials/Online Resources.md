@@ -4,6 +4,7 @@ Learn how to access various reading materials for free with UOB credentials [her
 ### Design and Systems
 - [Awesome Design and Systems Thinking](https://github.com/robinstickel/awesome-design-principles#readme)
 - [Design Kit](http://www.designkit.org/) *Travis likes recommending this one.*
+- [This is Service Design Doing](https://www.thisisservicedesigndoing.com/methods) 
 - [BeCreate](http://www.becreate.ch/en/methods.aspx) *The swiss child of Design Kit. Smaller.*
 - [The Systems Thinker](https://thesystemsthinker.com/) *Lots of contributers, blog/pdf content.*
 - [Run a CSI Lab on Design Thinking](https://rework.withgoogle.com/guides/design-thinking/steps/run-a-CSI-Lab-on-design-thinking/) *Google's guide on a design thinking workshop.*
@@ -29,7 +30,6 @@ Learn how to access various reading materials for free with UOB credentials [her
 ### Miscellaneous Links 
  - https://placesjournal.org/article/interfacing-urban-intelligence/
  - http://tangible-memories.com/ *Where the current innovation staff are showing off their work*
-
 
 # General Online Learning
  - [Salesforce](https://trailhead.salesforce.com/en/home) - Has a few random courses that aren't to do with Salesforce.
