@@ -8,6 +8,7 @@
  
 ## Useful Links
  * [The Official Innovation Student Information Hub](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_226311_1&content_id=_2709962_1) - Your primary administrative reference. Student Handbook, Extenucating Circumstances, Additional Exam Arrangements, Extension Request Forms.
+ * [The Official Course Discussion Blackboard Site](https://www.ole.bris.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_226531_1&handle=cp_announcements&mode=cpview) - Where you can discuss the course, raise issues to course reps, and view course rep agendas and minutes.
  * [The Really Unofficial Student Lending Library](https://docs.google.com/spreadsheets/d/1fnII2CWCuGmKwVAKAG3HNlmRLz55yQiz1A1ghRKreB8/edit?usp=sharing) - Ask people to borrow books, and share your own books.
 
 ## Contributing to This Site
