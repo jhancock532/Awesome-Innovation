@@ -48,14 +48,17 @@
   Free : Quickly code your web ideas and host them online for free. I use this a lot when coding with Javascript. Not suitable for non coders, sorry.
 * [Cloudinary](https://cloudinary.com/console/media_library/folders/all/) <br>
   Free : Host images, mp3, any file type! There are limits for the free tier, but it's generous.
+* [000WebHosting](https://www.000webhost.com/) <br>
+  Free : Host websites, with some bandwidth and file size limits. Has a website builder, no free domain name.
 
 ## Design
 
 * [Gravit](https://designer.gravit.io/)<br>
   Free : A swish online design tool, there is also a downloadable verison for those who distrust their browsers. Thanks to Angus Williams for submitting this resource!
-
 * [Word Cloud Generator](https://www.wordclouds.com/) <br>
   Free : Really easy to use, no download or sign up required. Perfect for what you need it to do.
+* [PixilArt](https://www.pixilart.com/) <br>
+  Free : Excellent online pixel editor, not perfect for video game sprites, but doable. Includes layers, copy paste and select features with a nice colour pallet.
   
 ## Learning to Touch Type
 
